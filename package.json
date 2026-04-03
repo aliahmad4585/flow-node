@@ -14,8 +14,7 @@
     }
   },
   "scripts": {
-    "test": "jest",
-    "lint": "node -e \"console.log('lint not configured for JS build')\""
+    "test": "jest"
   },
   "keywords": [
     "workflow",

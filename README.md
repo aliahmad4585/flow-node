@@ -98,7 +98,7 @@ flow.task("process", doProcess);
 ## Run tests
 
 ```bash
-npm test
+npm run test
 ```
 
 ## License
